@@ -1,6 +1,6 @@
 package ru.penkin.java.basic.homework22;
 
-public class ArrayUtils {      // vetka1_dz22
+public class ArrayUtils {      // vetka1_dz22_test
 
     public static int[] getElementsAfterLastOne(int[] array) {
         boolean foundOne = false;

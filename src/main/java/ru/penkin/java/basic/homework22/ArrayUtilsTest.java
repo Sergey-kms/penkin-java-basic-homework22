@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class ArrayUtilsTest {      // vetka1_dz22
+public class ArrayUtilsTest {      // vetka1_dz22_test
 
     @Test
     public void testGetElementsAfterLastOne() {
